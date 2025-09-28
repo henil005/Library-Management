@@ -1,0 +1,10 @@
+Sorath no baharvatiyo kadu makrani,JD,7610,50.0,True,2025-03-13 12:03:57.997599,Deep
+ABC,abc,1234,10.0,False,None,None
+Bhagavad Gita,Vyasa,2311,100.0,False,None,None
+The Bible,Various ,8523,75.0,False,None,None
+The Great Gatsby,F. Scott Fitzgerald,7496,84.0,False,None,None
+To Kill a Mockingbird,Harper Lee,8521,50.0,False,None,None
+Moby-Dick,Herman Melville,7869,84.0,False,None,None
+Pride and Prejudice,Jane Austen,2596,35.0,False,None,None
+The Hobbit, J.R.R. Tolkien,8961,29.0,False,None,None
+Brave New World,Aldous Huxley,4563,65.0,False,None,None
